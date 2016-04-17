@@ -21,9 +21,15 @@
     <ClCompile Include="VideoWaveMaker.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DisplacementVideoFilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="VideoWaveMaker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplacementVideoFilter.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

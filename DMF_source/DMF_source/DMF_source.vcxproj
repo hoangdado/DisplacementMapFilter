@@ -79,10 +79,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DisplacementVideoFilter.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="VideoWaveMaker.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DisplacementVideoFilter.h" />
     <ClInclude Include="VideoWaveMaker.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
