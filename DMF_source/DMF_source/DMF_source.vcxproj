@@ -80,6 +80,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="VideoWaveMaker.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="VideoWaveMaker.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
